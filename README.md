@@ -1,1 +1,1 @@
-# task-4
+create a basic keylogger program that records and logs key strokers. focus on logging the key pressed and saving them to a file . Note: Ethical consideration and permissions are crucial for projects involving keyloggers
